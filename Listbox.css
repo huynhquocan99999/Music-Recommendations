@@ -1,0 +1,20 @@
+.listbox {
+    text-align: auto;
+    
+    border-radius: 4px;
+}
+.buttonListbox {
+    background-color: #ffffff;
+    border-radius: 4px;
+    color: rgba(13, 13, 14, 0.945);
+    display: inline-block;
+    height: 40px;
+    line-height: 10px;
+    min-width: 100px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+    
+}
+.buttonListbox:hover {
+    background-color: #cf1f4b;
+  }

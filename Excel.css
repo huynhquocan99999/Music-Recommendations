@@ -1,0 +1,12 @@
+.excel {
+    font-size: 30px;
+    max-height: 30px;
+    max-width: 100px;
+    
+    margin-left: 20px;
+}
+.excel1 {
+    font-size: 30px;
+    background-color:aliceblue;
+    border-radius: 5px;
+}

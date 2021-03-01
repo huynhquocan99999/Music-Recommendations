@@ -1,0 +1,15 @@
+.Detail {
+    margin-left: 300px;
+}
+.img {
+display: block;
+  max-width: 100px;
+}
+.name {
+  color: black;
+  font-style: italic;
+}
+.nameArtists {
+  color: black;
+  font-style: italic;
+}
